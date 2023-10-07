@@ -3,8 +3,10 @@
 Run the development server & build:
 
 ```bash
+# install package
+yarn install
 # run
-yarn
+yarn dev
 # build
 yarn build
 ```
